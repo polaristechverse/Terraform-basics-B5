@@ -8,3 +8,6 @@ variable "Subnet_2_Cidr" {}
 variable "az2" {}
 variable "subnet_name_2" {}
 variable "Public_RTB_Name" {}
+variable "az3" {}
+variable "subnet_name_3" {}
+variable "Subnet_3_Cidr" {}
