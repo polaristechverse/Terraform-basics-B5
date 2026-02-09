@@ -1,0 +1,10 @@
+variable "vpc_cidr" {}
+variable "vpc_name" {}
+variable "IGW_Name" {}
+variable "Subnet_1_Cidr" {}
+variable "az1" {}
+variable "subnet_name_1" {}
+variable "Subnet_2_Cidr" {}
+variable "az2" {}
+variable "subnet_name_2" {}
+variable "Public_RTB_Name" {}
